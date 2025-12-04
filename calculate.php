@@ -27,5 +27,7 @@
     <?php
      echo "<h3> Total Bill : Rs " . $total . "</h3>";
     ?>
+
+    <a href="index.php">Go Back</a>
 </body>
 </html>

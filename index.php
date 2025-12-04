@@ -45,5 +45,6 @@
         <input type="number" id="dhal" name="dhal" ><br><br>
         
         <input type="submit" value="Calculate Bill">
+    </form>
 </body>
 </html>
